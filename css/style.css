@@ -1,0 +1,29 @@
+/* start slider */
+.carousel-item img{
+    height: 90vh;
+}
+.carousel-caption {
+    top:40% ;
+}
+.carousel-caption h5{
+    font-size: 3rem;
+}
+.carousel-caption p{
+    font-size: 1.5rem;
+}
+/* end slider */
+
+/* start service */
+.service{
+    margin: 10% 0;
+}
+.service .icon{
+    color: rgb( 13, 110, 253);
+}
+/* end service */
+.testmonial{
+    padding: 5% 0;
+}
+.testmonial img{
+    height: 22vh;
+}
